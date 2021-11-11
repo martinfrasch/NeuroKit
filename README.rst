@@ -1,3 +1,11 @@
+To do:
+
+- add my functions
+
+- add sample peak files
+
+- add the container (docker) 
+
 .. image:: https://raw.github.com/neuropsychology/NeuroKit/master/docs/img/banner.png
         :target: https://neurokit2.readthedocs.io/en/latest/?badge=latest
 
