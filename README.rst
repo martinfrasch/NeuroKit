@@ -1,9 +1,13 @@
-To do:
+**What is done in this fork?**
 
-- add my functions
-- provide clear doc on the specific use case
-- add sample peak files
-[- add the container (docker)]
+This is a very specific use case adaptation of Neurokit 2 API for computing HRV on maternal and fetal peak data. 
+I added the Jupyter notebook that uses NK2 to batch-ingest Matlab (*.mat) or otherwise extracted R-R intervals (RRIs) or peak data and computes 62 HRV metrics. 
+It should work on any other similar time series. I hope this will facilitate utilization of NK2 in various similar contexts!
+
+**What remains to be done?**
+
+- provide clear doc on the specific use case (preprint is in preparation)
+- Make it ridiculously easy to use: add a (docker) container
 
 .. image:: https://raw.github.com/neuropsychology/NeuroKit/master/docs/img/banner.png
         :target: https://neurokit2.readthedocs.io/en/latest/?badge=latest
