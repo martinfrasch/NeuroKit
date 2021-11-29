@@ -1,7 +1,7 @@
 **What is done in this fork?**
 
 This is a very specific use case adaptation of Neurokit 2 API for computing HRV on maternal and fetal peak data. 
-I added the Jupyter notebook that uses NK2 to batch-ingest Matlab (*.mat) or otherwise extracted R-R intervals (RRIs) or peak data and computes 62 HRV metrics. 
+I added the Jupyter notebook "HRV_batch_mode_v3.1_GitHub _FINAL.ipynb" that uses NK2 to batch-ingest Matlab (*.mat) or otherwise extracted R-R intervals (RRIs) or peak data and computes 62 HRV metrics (for overview see "HRV_metrics_computed_GitHub.ods"). 
 It should work on any other similar time series. I hope this will facilitate utilization of NK2 in various similar contexts!
 
 **What remains to be done?**
